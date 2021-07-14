@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1626276793041" clover="3.2.0">
+  <project timestamp="1626276793041" name="All files">
+    <metrics statements="30" coveredstatements="30" conditionals="16" coveredconditionals="16" methods="9" coveredmethods="9" elements="55" coveredelements="55" complexity="0" loc="30" ncloc="30" packages="1" files="1" classes="1"/>
+    <file name="linkedList.js" path="/Users/ben/code/fanninggg/linkedList/linkedList.js">
+      <metrics statements="30" coveredstatements="30" conditionals="16" coveredconditionals="16" methods="9" coveredmethods="9"/>
+      <line num="3" count="15" type="stmt"/>
+      <line num="4" count="15" type="stmt"/>
+      <line num="8" count="44" type="stmt"/>
+      <line num="9" count="44" type="stmt"/>
+      <line num="10" count="44" type="stmt"/>
+      <line num="14" count="8" type="cond" truecount="4" falsecount="0"/>
+      <line num="15" count="6" type="stmt"/>
+      <line num="16" count="6" type="stmt"/>
+      <line num="17" count="8" type="stmt"/>
+      <line num="19" count="6" type="stmt"/>
+      <line num="23" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="24" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+      <line num="31" count="2" type="stmt"/>
+      <line num="32" count="2" type="stmt"/>
+      <line num="36" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="37" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="38" count="1" type="stmt"/>
+      <line num="39" count="1" type="stmt"/>
+      <line num="40" count="1" type="stmt"/>
+      <line num="46" count="45" type="stmt"/>
+      <line num="47" count="45" type="stmt"/>
+      <line num="51" count="1" type="stmt"/>
+      <line num="52" count="13" type="stmt"/>
+      <line num="53" count="13" type="stmt"/>
+      <line num="54" count="39" type="stmt"/>
+      <line num="56" count="13" type="stmt"/>
+      <line num="59" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
