@@ -1,3 +1,3 @@
 ## Javascript Linked List
 
-A simple singular linked list with CRUD actions in JS with some Jest tests
+A singular linked list built in Javascrit with CRUD actions and Jest tests
